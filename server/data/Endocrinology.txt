@@ -1,0 +1,181 @@
+#separator:tab
+#html:true
+#tags column:3
+What is the relationship between glucocorticoids and reproductive impulsivity?<br>	Because organisms in stressful enviroments have a lower change of reproducing in the future, they are more likely to lower their reproductive standards now rather than wainting for the uncertain possibility that they will reproduce again	
+"What causes milk-making glands to ""activate""?<br>"	The oxytocin as a function the lovey feelings for the child during birth.	
+Relationship between divergence and stream function	The stream function is defined to the be the function which is tangential to the fluid flow at all times, and it is only in K direction. If there where flow coming from a source, say, it would not only be in K direction but also in i,j	
+Prove that zero curl implies a scalar function	"<img src=""image-4ed53a30713698e20f5336ae0612df9cc23c5509.png"">"	
+Let \(\psi = -Uy + \frac{Ua^2y}{x+2+y^2}\), find the circulation around the cirlce r = R	"<img src=""paste-d45fab8bef904712e2a449b8777ef6b2606dfe49.jpg"">"	
+Find the area of the plane restricted by the x-axis, the line y = 2x, and the ellipse&nbsp;&nbsp;\(x^2 + \frac{y^2}{4} = 1 \). Use the coordinate shift \(x = u\cos{v}, y = 2u\sin{v}\)	"<img src=""paste-6aa982f21ac6a0be7a5d7783cca2095f3ca0d99a.jpg"">"	
+"<img src=""paste-3e364c8df3b2093c94eefc65ce6c21f2f4f6c5be.jpg"">"	"<img src=""paste-6fe6ef108a5c26f4cb558b9fcd7d43af5cb95c16.jpg"">"	
+"<img src=""paste-4f30c5fd55839fd96078f1f9d58fd1bd6042f5ba.jpg"">"	"<img src=""paste-7cdb81bfcd344240906d995fcb30c071b52846a4.jpg"">"	
+"<img src=""paste-c36b2d885fd0abbc8d46ec0ab8c4615e5be26323.jpg"">"	"<img src=""paste-8e96271cff1e818e75f7a077439bf5e941663259.jpg"">"	
+"<img src=""paste-f70bacdd71c7e6031bc55065ddd49ceeba99d9bd.jpg"">"	"<img src=""paste-eebb80739283ce3e603500fc101614bbe2c0515d.jpg"">"	
+"<img src=""paste-2e2a2d12f6bc1a4430a7dff8bbaa19a0276adb80.jpg"">"	"<img src=""paste-23f404622c491c8af2e140b30d3e4c13d3314735.jpg"">"	
+"<img src=""paste-0fafc50ce84782599a82b28fd3b2794db6aa7ad0.jpg"">"	"<img src=""paste-0303b99757dceab21e835f9acb48b86cca295abe.jpg"">"	
+"<img src=""paste-8fb79720ed7fc901c26764281e416206ff548f8f.jpg"">"	"<img src=""paste-f7b02dcf5fbb961a72c4593b40ec5d9e3e58138b.jpg"">"	
+"<img src=""paste-386270c4e5b32a9cc1d89c3f74414bd909c0c905.jpg"">"	"<img src=""paste-993194dba441876c0e328ada661798a01d6c2131.jpg"">"	
+"<img src=""paste-3e1f856afbc436ddc63f8a38677f661b8f93d84f.jpg"">"	"<img src=""paste-534f7844ad8ccf97013239493b5947351ddc4c24.jpg"">"	
+"<img src=""paste-8968dbfe7a6cbb6a62676569efa67bcadaab789e.jpg"">"	"<img src=""paste-2116f9a730ca34eb379fb83279b494c3ee0275fa.jpg"">"	
+"<img src=""paste-024b955124e6d2742f442f3a7e2774469c7745d5.jpg"">"	"<img src=""paste-882f6492750e8f25c5d6696ef08fa2fb3ba3c40d.jpg"">"	
+"<img src=""paste-7224e60cb70745ae9dbb916ae78a0dd842e96623.jpg"">"	"<img src=""paste-4bf22d65d601dc5bf1cb216456d395f0a80e0b97.jpg"">"	
+"<img src=""paste-9afe7e72e43f10c57a45d62965c9881213931389.jpg"">"	"<img src=""paste-71bd050c94eba92de4f0abf97376dd96294f5295.jpg"">"	
+"<img src=""paste-bb74c8a3e91fce3f52a69a3cfff14cd05fce7185.jpg"">"	"<img src=""paste-cd0b529e460d14f044e31e413ca633a9ba46e1ae.jpg"">"	
+"<img src=""paste-33b412731fef00bc5b838b6acc0e65df13b5ef94.jpg"">"	"<img src=""paste-b4cac8870e76ec2272043b79f4e01dfb37051995.jpg"">"	
+"<img src=""paste-3666a34c586ec154d2ae18d8ca2c62d8d96f26aa.jpg"">"	"<img src=""paste-828195ff010c488dfb73aea3cb2b58a6ed968f81.jpg"">"	
+"<img src=""paste-1ffa924368d3dad3c809f0d0a67cf773f4e08280.jpg"">"	"<img src=""paste-4732c3da476b2a65eac8840fc115b26202047914.jpg"">"	
+"<img src=""paste-b870c00490548ade9d55c2d483c1afecf4daa060.jpg""><div>bad card cuz N only is not underlined</div>"	"<img src=""paste-e9d41e89d89946acfbf2bd935892a1f822484572.jpg"">"	
+"<img src=""paste-e384dff1226d40c51cc5b53c6fef786f49e6d0b8.jpg"">"	"<img src=""paste-c6b0d889e131d65f2821c4b3bb12f60a63658bb2.jpg"">"	
+"<img src=""paste-13d8c202c59984d58f01058e0b99ffea71db48d2.jpg"">"	"<img src=""paste-d1ca10dfd191900ef5eaacb264d174bc58e9b0b7.jpg"">"	
+"<img src=""paste-3a721c5f7c182a135ec24948c9d8820044d0ab72.jpg"">"	"<img src=""paste-b796158c62dd8ef5ab57a5fad010271a478d436a.jpg"">"	
+"<img src=""paste-460e9442e9c710a718b4b63a06aef724eaf2235f.jpg"">"	"<img src=""paste-5675a8b049709eed723e579dd68ed473830463d4.jpg"">"	
+"<img src=""paste-4072d5e859feeb23efdb07f21b71cd9308fd807a.jpg"">"	"<img src=""paste-a1eabfc8382f1426db4e5b6f5e9ca0fbe0a4ee75.jpg"">"	
+"<img src=""paste-1b11f01325aa3d903f6ed9a4387b135d0c0ee1d7.jpg"">"	"<img src=""paste-6be64930777659d7937425915c2afcdd053bbdae.jpg"">"	
+"<img src=""paste-1f91228d92ebea4122e65b69af88024b0549bf51.jpg"">"	"<img src=""paste-d269856b06662bd298cf32836ea2b1bf528d49d4.jpg"">"	
+"<img src=""paste-33f02e75099316283f3bf14f60503187bdae7c42.jpg"">"	"<img src=""paste-0c60c18fcd7e7ee56d1ce1f0d06402dc54d8053f.jpg"">"	
+"<img src=""paste-a38496bc6c8f38a7e1be55abf86506933e429ac3.jpg"">"	"<img src=""paste-fc0d9025a71285409764248b7a3e9426e350553b.jpg"">"	
+"<img src=""paste-0a8b9466a7c9bdba32c4892c68147a6fb830e312.jpg"">"	"<img src=""paste-c19c0462e1dbbfe48c0ffcc257d16ee3ea6964e7.jpg"">"	
+"<img src=""paste-0fc39599b6c70280522ff2442a8706d2d73b555d.jpg"">"	"<img src=""paste-8e91c2520aa513125748e2a33067cdc6ca90d706.jpg"">"	
+"<img src=""paste-59c7081386574376b77eeadcc72cf074b59906fa.jpg"">"	"<img src=""paste-8d709fc1d06ec494074d382054ffad4dfba3b437.jpg"">"	
+"<img src=""paste-544b7328b89fedf0b591d52f85f961bb34f03893.jpg"">"	"<img src=""paste-371dedfed88da6c18143b8573765926a785d04f4.jpg"">"	
+"<img src=""paste-b132f82cdab5aa902f101efe69adaffb16a8eb89.jpg""><div>NOT R SPHERE BUT R^3</div>"	"<img src=""paste-748e6f85474db3196df4869c80edd8b369a1b7eb.jpg"">"	
+"<img src=""paste-da6283fbdb18551df06dff4ba5f1e2dcf5bef7ce.jpg"">"	"<img src=""paste-242b89f22fc8ffb8602457c3022a471944df2c69.jpg"">"	
+"<img src=""paste-73dada718a3765663c1ab135d52372bd737ad423.jpg"">"	"<img src=""paste-6fe099ce73105b3e289257ddb532fbf489e5be0f.jpg"">"	
+"<img src=""paste-d3c59783284d13f52935843073ea2f2381d40023.jpg"">"	"<img src=""paste-15fb5d074f14912f0f8eb9b82a60a81a7f82a79d.jpg"">"	
+"<img src=""paste-289da86687a1928bdb8e6863d72569aba8dfe0c7.jpg"">"	"<img src=""paste-22745e5ed59d5d03dd8429d6bfb1e0c36da7af1f.jpg"">"	
+"<img src=""paste-e6a96dce53c1ff766b757d6d7a265c12f10d55dc.jpg"">"	"<img src=""paste-6f9b2efb5afac4c2fded29e724d3eaddf29d5df3.jpg"">"	
+"<img src=""paste-1eb88cfc613f9670fa82e74fca3ca97f27a7b803.jpg"">"	"<img src=""paste-38b16b6205784bf7255bdbdba79f78424f7bbc85.jpg"">"	
+"<img src=""paste-68637eb688201760d901c88f85c50fc18a3f38fe.jpg"">"	"<img src=""paste-de1c685429a8f546cb9ea5079dc9f50ce5b10b5b.jpg"">"	
+"<img src=""paste-2af91c6089eeacdf23588409d4908bbb99edcb7d.jpg"">"	"<img src=""paste-02e0ae35867f5f31c489adc3fa5f51fe793bb684.jpg"">"	
+"<img src=""paste-124109f44a0286caf8a60d8901fbfdf37f4116d4.jpg"">"	"<img src=""paste-9181c281c34aba6e0525aad3a7371896a96bf80e.jpg"">"	
+"<img src=""paste-8f326c2535c51633d7dc03b7ed0179313b9b32b0.jpg"">"	"<img src=""paste-a865e6feb0100a14c388fb570b14da15d957fe2b.jpg"">"	
+"<img src=""paste-96c2406bb828dc37aeb2172d28248a19c87a6fc6.jpg"">"	"<img src=""paste-95d2428ba61b8d6aeb811bf5a4d5e55ff8fbcbc3.jpg"">"	
+"<img src=""paste-c1f6a889adcb71880627e4f0f7fbdbe53d849880.jpg"">"	"<img src=""paste-c1f6a889adcb71880627e4f0f7fbdbe53d849880.jpg"">"	
+"<img src=""paste-2e0e6e407895e7eee71c912eab7dfb4c5c8fd0f1.jpg"">"	"<img src=""paste-0da4a358bc2ac16bac6a3ff94c1dea87185e09a7.jpg"">"	
+State the definition of dimension of a vector space	Number of vectors in its basis	
+"<img src=""paste-02793954da64463b3eb207b021a5ac0c382b35e3.jpg"">"	"<img src=""paste-c82533a76a76cd704d5e39bdc9b50c4a1628e093.jpg"">"	
+"<img src=""paste-c99c1f60845e240ddac808d50afae81744bce66e.jpg"">"	"<img src=""paste-476c18cf097b97c9402c5e50ceffbac6bdf15a93.jpg"">"	
+"<img src=""paste-b34dc061ffa97c2a3fb748b74b38a0b54c03e0c9.jpg"">"	"<img src=""paste-3e99a2f06a5c820dc856efa435a5cdb852149536.jpg"">"	
+"<img src=""paste-7d668c42533a6c353a856f52f1aa9cc84e5de7d4.jpg"">"	"<img src=""paste-0bc5d46db52d0bca71b7123e67b8c8c3a923f272.jpg"">"	
+"<img src=""paste-3500bdb1a250a54b26c0125166264704a12e817d.jpg"">"	"<img src=""paste-7b8913e1fa6b79e375fbc4f987eea530a6e7bb5c.jpg"">"	blockmatrix
+"What does E.H Gombrich denote the concept: ""the beholders concept"""	"The represental meaning can never be carred beyond a certian level of generality. Sure, the Piccadelly Eros stature might be a symbol of Charity, or giving water to the poor and rich alike, but what about the monsters around the base? There is in the ""decorative"" or ""non-representational"" a hermeneutic surplus"	
+"<img src=""paste-031295353aee3c5c53c99b436bbb316250c659dc.jpg"">"	"<img src=""paste-f92c28b8e8d031da541073396e55fe9ff3dfe8b1.jpg"">"	
+"<img src=""paste-738f75c280b0dc60c885de6f74c79684c7692bb5.jpg"">"	"<img src=""paste-4c539028bde9b87435b90f9e2ae00916bea86931.jpg"">"	
+"<img src=""paste-5c13623f9c42b2060bba3cdae394b8555e1d3bb9.jpg"">"	"<img src=""paste-430bbd644a6b5752e9b43edef8dfdb047efe8b4a.jpg"">"	
+"<img src=""paste-300edfbd27719c9f4c863884be0c7e44447cc4b2.jpg"">"	"<img src=""paste-8b2a0e693bea9401c660effbf890ced0a9f6a60d.jpg"">"	
+"<img src=""paste-84307a60a4d84cbaf05b2af9261d4627590d6efd.jpg"">"	"<img src=""paste-1518278bdf113a59ac99595428cc3ae1be0e0455.jpg"">"	
+"<img src=""paste-5d3183dd93db0a18ca20b350d07f65f976d6749b.jpg"">"	"<img src=""paste-e2a0b1cc19018fa52d2f70cec8538a411c676bed.jpg"">"	
+"<img src=""paste-5e6b717527c19140f50d916c2d858221b2ab4334.jpg"">"	yes	subspaces
+Is it true that the set of all solutions of a system of m homogeneous equations in n unknowins is a subspace of R^m?	Yes, since the span of the (m x n) matrix can only be v1...vm or less.&nbsp;	subspaces
+"<img src=""paste-a7c11393103148dadd67a9bfb63ec17b07c56a0c.jpg"">"	"<img src=""paste-c978b2e14251618450d7165bc913a11d621cae52.jpg"">"	subspaces
+Suppose F is a 5x5 matrix with column space not equal to R^5. What can you say about NulF?	This means that we can row reduce it to an echelon form with a null-row. This further implies that there are non-trivial solutions to the null space	subspaces
+Suppose Q is 4 x 4 matrix and Col Q &nbsp;= R^4. What can you say about the equation Qx = b?	There exists only unique solutions	subspaces
+"<img src=""paste-2fa4e1061ab8e61964bd3afd51ff780fd8cd870a.jpg"">"	"<img src=""paste-dab23f2809ffac7f466035c87684b5beba4bb830.jpg"">"	basis
+"<img src=""paste-824487437c194768cd1ba8167d09773f2ec89b71.jpg"">"	"<img src=""paste-7c3fc9190818e0d5b3be8317aa84f212ec87dba6.jpg"">"	basis
+"<img src=""paste-e6172f5fd01c795a04eff0a1bea00dd6cf55529b.jpg"">"	"<img src=""paste-9ac13daa98257bf50791a059a15287bd8637636e.jpg"">"	basis
+"<img src=""paste-05ce7dd4bacd6295ec6e3e9e010748da6bf50d6d.jpg"">"	"<img src=""paste-643d794d1aca5282e707d9a978b6ecefb51d1f7d.jpg"">"	basis
+If the subspace of all solutions of Ax = 0 has a basis consisting of three vectors, and if A is a 5 x 7 matrix (7 columns). what is the rank of A ?	rankA = 3-7 = 4.&nbsp;<div>This is because there are a set of three vectors all being mapped to zero, which are then in the null space and not the columns space.&nbsp;</div>	basis
+If the rank of a 7 x 6 matrix A is 4, what is the dimnesion of the solution space of Ax = 0?	We've got 6 columns being mapped to a 4 dimensional space, therefore we've lost two to the nullspace. nullA = 2, rank = 4	basis
+Is the inverse of an elementary matrix an elementary matrix?	Yes	basis
+Is the transpose of an elementary matrix an elementary matrix?	Yes	basis
+"<img src=""paste-dc30acc8fe308c23fae40681e7ea8ec945e715e6.jpg"">"	"<img src=""paste-8af4851ecaad939abe2bb721025a733b0eaf8604.jpg"">"	basis
+"<img src=""paste-67cd3a2436e9b171b80959c402696916a8af2581.jpg"">"	"<img src=""paste-9dfa9186eeaf5f60cf731bff141f403940046117.jpg"">"	innerproduct
+Explain why perp(Row(A)) &nbsp;= Nul A.&nbsp;	From the definition of NulA we have : NulA &nbsp;= x : Ax = 0.&nbsp;<div>This implies that x is ortogonal to every row of A.</div><div>Row(A) ⋅ x = 0&nbsp;</div><div>Since perp(Row(A)) is defined to be the vector such that</div><div>perp(Row(A)) ⋅ Row(A) = 0</div><div><br></div><div>From definitions therefore perp(Row(A)) = x = NulA</div>	innerproduct
+"<img src=""paste-2b230e238ed3c750c0abfd7a00038e2689b44099.jpg"">"	"<img src=""paste-363d5ca7ae9926883efde5d83098b486957eec0e.jpg"">"	innerproduct
+"<img src=""paste-ac5a8433af6eb155a431e32438e5bf38601374f8.jpg"">"	"<img src=""paste-25c9843cf1c53925019159f8bb9e13c970840cf0.jpg"">"	innerproduct
+"<img src=""paste-f9f2b929fbad13e2ec7da2d164aeaf059b3618cb.jpg"">"	"<img src=""paste-d99f2579c97f9ce08b505a24047832c18e617e2c.jpg"">"	ortogonality
+"<img src=""paste-f6c0450a79336f923c41215956e9a8279278c77b.jpg"">"	"<img src=""paste-0e6d59efe20404c221b35f21253bebdea87cd0f2.jpg"">"	ortogonality
+Explain how you can make any vector in&nbsp;\(\mathbb{R}^3\)as a composition of two vectors in orthogonal subsets&nbsp;	"<img src=""paste-ce34c96615d984ad8a82e6630a2baa80cc016c64.jpg""><div>The red line is ortogonal to the green line y, which is the projection z to R^2 in this case.</div>"	ortogonality
+"<img src=""paste-28ed6c8b6b488bb112d581b7bce37878569cd2a5.jpg"">"	"<img src=""paste-1f5ec62d66d06baebf796fb6a41ebaad96b2702a.jpg"">"	ortogonality
+"<img src=""paste-41121444b5d9e612b46c4a002d6548ac86028b5e.jpg"">"	"<img src=""paste-f660e5a35165fb42ad1dd55e1b34bc1041ac9c2d.jpg"">"	
+"<img src=""paste-89d7aabb8bdc4057bb21523766b97a5d55714095.jpg"">"	"<img src=""paste-85b2a42a07d44f65898ac9f72fcbf668e4c27f19.jpg"">"	
+"<img src=""paste-1083725d0f1ab7c1aa30c82138d5553f0931ed56.jpg"">"	"<img src=""paste-bb14d9b594139f33f4e0f0121893620dde909075.jpg"">"	
+"<img src=""paste-66ce41d5a538c8c0bcf3eaaa13bc18819e50778a.jpg"">"	"<img src=""paste-ec7a11d8cbe05f9753be102dccd9071638cbd90f.jpg"">"	ortogonality
+"<img src=""paste-f47803c81f60fdbf1f05b014c4097022fc458903.jpg"">"	"<img src=""paste-260fc124fb8e1d8b674005531547c8ee2072f223.jpg"">"	ortogonality
+"<img src=""paste-66da77d269a56271e319d6a4914366844b552253.jpg"">"	"<img src=""paste-7632d05488276669eac9f76bfe3e47b1f74753aa.jpg"">"	ortogonality
+"<img src=""paste-3191819f1391a088865065d3a0898897bfe31022.jpg"">"	"<img src=""paste-eab420db4d63af971fe7fc552b5314eb1233ca4b.jpg"">"	
+"<img src=""paste-9fcd1304b26f9dc46a6f0c31c7286107e4387d00.jpg"">"	"<img src=""paste-36a80b174549d6c465665c90f9fedf38441bf359.jpg"">"	
+"<img src=""paste-e578a15e7b11f7ad4718d5d9c32f93aba8b26dec.jpg"">"	"<img src=""paste-522bb36dfd5ae288c0df3c9bd3b74dbb09a5f47b.jpg"">"	
+"<img src=""paste-7f3dc46b7a180bdcc355e52a2c34ffb3d5148fd1.jpg"">"	"<img src=""paste-59be61659186857009279ba099311b3e3ff9ab6b.jpg"">"	
+"<img src=""paste-7808e96c4f8b5ff5f9ce4237140808e1861c8a23.jpg"">"	"<img src=""paste-6c15af12526b9236fd609fe5558687daa415d20c.jpg"">"	
+"<img src=""paste-62535a923c7c6cb10192b85940a67ce7a3c2503b.jpg"">"	"<img src=""paste-0d6612dd7c4c3733e3ca6bdcefff512552c46fcd.jpg"">"	
+"<img src=""paste-1f79256d6cbfa15f1c092be227d9a40a4c01481a.jpg"">"	"<img src=""paste-cc31dabcfb74267db3488d05790fa09b6a015cfd.jpg"">"	
+"<img src=""paste-251fdbf677197736a382729ad3c40cb99595e2fa.jpg"">"	"<img src=""paste-d7a205f8d4a078d44059a8538a785290928e2611.jpg"">"	
+Find the electric field a distaqnce z above the center of a square carrying uniform line charge \lambda	"<img src=""paste-1c724ced960635f411a77698b5d095824f0d7018.jpg"">"	
+"<img src=""paste-54e393391208a1d84e47b89571916e7b953c9a2f.jpg"">"	"<img src=""paste-2f3d566d1c819e74f66b316be7ecd1784488cbcb.jpg"">"	
+"<img src=""paste-34b0fabb210cdee05fb7bb823612fcca5cf2f699.jpg"">"	"<img src=""paste-9ffef11ed5e9b4dc07ec69c8028ae526f18bd35f.jpg"">"	
+"<img src=""paste-ef053240bb5c66a3b21938d37af85ea876bf0939.jpg"">"	"<img src=""paste-5603dd1e3e7424e4a5244991c9ea9850b75e5a14.jpg"">"	
+"<img src=""paste-d63cc4d760f3eedee956cd0e73e3537999812c26.jpg""><br>State the definition of the trace operator, Tr(A) in linear algebra"	\(\)	
+"<img src=""paste-4530200818293c74f06d5e98714262048d8780da.jpg"">"	"<img src=""paste-209ec62af9ec52c98de54547d73c46acae49aa75.jpg"">"	
+What is type 1 error in alpha level (significance level) testing?	Supporting the <b>alternate hypothesis&nbsp;</b>when the null hypothesis is true	
+What is type 2 error in alpha level (significance level) testing?	Supporting the&nbsp;<b>null hypothesis&nbsp;</b>when the alternate hypothesis is true	
+Give both the verbal and numerical definition of the&nbsp;<i>t-statistic</i>	the&nbsp;<b>t-statistic&nbsp;</b>is a value describing the departure of the sample mean from the hypothesized population mean.&nbsp;	
+"<img src=""paste-47ffbedc082af8cfc7e28ae652a472d3c0bedad5.jpg"">"	"<img src=""paste-6f66d629cc0fa7761fdd9b932b304c5d5ab78a6c.jpg"">"	
+What is a&nbsp;<i>markov chain?&nbsp;</i>	A first-order difference equation such that&nbsp;\(x_{k+1} = Px_k\)&nbsp;where P is a&nbsp;<b>stochastic matrix&nbsp;</b>- that being a matrix which has probability vectors as its columns.	
+Visualize the process of diagonlization	"<img src=""paste-9bb668643b481a668df8c29432bd6c4a740c8b46.gif"">"	
+Why does not having an complete eigen-basis imply non-diagonalizability?	Because, algebraically, we must change into a eigen-basis and then do the scaling we desire then go back.	
+Why should we diagonalize?	To raise a matrix to a higher power skrt	
+"<img src=""166152230854601161.gif"">Develop the intution behind the orthogonal decomposition theorem: all vectors in&nbsp;\(\mathbb{R}^n\)&nbsp;can be written as the sum of two vectors from orthogonal subspaces<br>Let&nbsp;\(y \in \mathbb{R}^n, \tilde{y} \in W, z \in W^{\perp}\)<br><br><br>"		
+Let t be an observed test-statistic from an unknown distribution T. What is the P-value (one-sided right-tail test )?&nbsp;	"\(p = Pr(T \geq t \mid H_o)\). In words, it is the probability of observing a more ""extreme"" value than t if the&nbsp;\(H_0 \)is true. The lower the value, the ""easier"" it is to reject the null hypothesis<br><br>I.e the null hypothesis states there is no effect, yet the observed t-value is quite extreme; the p-value then signifies that in fact this is extreme?"	
+Hva er eksamen sin definisjon på p-verdien?	P-verdien er lik sannsyligheten for at vi vil få en verdi av testobservatoren som er minst like mye i motsetning til&nbsp;\(H_0\)&nbsp;som den verdien vi faktisk fikk	
+"Gitt at vår&nbsp;\(t = -4.88\), finn p-verdien.&nbsp;<br><img src=""paste-8fda932a223a38e1d8098ac75187926005e8013f.jpg"">"	Vi ser her at området ligger innenfor 0.0001 og 0.00001	
+What is the idolatry of fornication	The seperation of purpose and pleasure	
+What is the general idea of likelihood in statisitics?	It is a function assigning the probability of observing your data (\(x_1...x_n)\)&nbsp;given a specific parameter&nbsp;\(\theta\).	
+What is maximum likelihood optimization	Given a dataset, we define the likelihood function to be the probability of observing this data given a specific parameter. Furthermore, we optimize by setting the derivative of the log equal to zero.	
+"Describe the idea of Fisher information&nbsp;\(I(\theta) = V(\frac{\partial}{\partial \theta} \ln f(X\mid\theta))\)&nbsp;using this graph<br><img src=""paste-ea08f973449b3008742de57d8c4e2b64e0a466fa.jpg"">"	"Vi ser her at variansen er relativt lav (skarp derivert), som tilsier at datasettet vårt har noen ""preferanser"" ifht hvilken&nbsp;\(\theta\)&nbsp;som er best.&nbsp;<br>ELLER :<br>Desto spissere den grønne er, altså den deriverte, desto mer kan vi si om hvor skarpt topp punktet er til den røde"	
+Funny way to remember type I and type II error: given the hypothesis is pregnancy	"<img src=""rachnovblog-1024x413.jpeg""><br>"	
+"<div>An electric dipole consists of two particles: particle 1 with a charge&nbsp;Q&nbsp;at&nbsp;<span style=""font-weight: bold;"">r</span>1=(a,0,0)&nbsp;&nbsp;and particle 2 with a charge&nbsp;−Q&nbsp;at&nbsp;<span style=""font-weight: bold;"">r</span>2=(−a,0,0).</div><div><br></div><div>What is the direction of the electric field&nbsp;<span style=""font-weight: bold;"">E</span>E&nbsp;for a point on the y-axis?</div><div></div><div><a></a></div><br>"	<b>-x</b>	
+"<img src=""laplaceequation-question-boundary-050.png""><br>Hva kan vi si om V i det indre av området for a og b?"	Vi vet ingenting om randen i figur A så vi kan ha et harmonisk felt som osillerer overalt og dermed også om randa.<br><br>Imotsetning vet vi at hvis den er 0 på randa, kan den ikke osillere noe stedet i systemet&nbsp;	
+"<img src=""laplaceequation-question-discrete-010.png"" width=""677""><br>Hva er&nbsp;\(1/4(V_{i+1,j} + V_{i-1,j} + V_{i,j+1} + V_{i,j-1})\)her?&nbsp;"	A) 1 + 1 - 1 -1 = 0 = Origo<br>B) 1/4( 1 + 3 + 1 + 3 ) = 2 = Origo<br>C) 1/4 (1 + 1 + 1 + 1) = 2&nbsp; = ikke origo nei<br>D) 1/2(1+3) = 2 = Origo	
+Vis at&nbsp;\(E= 0 \to p =0 \to V_A - V_B = 0\)		
+"<img src=""conductors-question-field-010.png""><br>En ladning +Q er plassert i avstand R fra sentrum av kobberkulen. Kulen har nettoladning +q, hva er det elektriske feltet i midten av kulen?"	For alle ideelle ladere er ladnign innad null	
+"<img src=""conductors-question-hole-010.png"" width=""783""><br>En nøytral kobberkule (en ideell leder) har et kuleformet hull i sentrum. En ladning +q plasseres i sentrum av hullet (og kuleskallet). Hva er den totale ladning på utsiden av kobberkulen npr systemet er i likevekt?"	Vi vet at netto ladningen skal være null innad kulen, dermed må vi ha -q langs randa langs innsiden av kobberkulen. For å utbalansere dette, må vi +q på ytre q. Det er derfor ingen netto endring som et resultat av lederen	
+"<img src=""paste-b0338683f35a1103a1dafce9a2fdce8100444ed5.jpg"">&nbsp;utled"		
+Du har bygget en kondensator med kapasitans C som består av to parallelle plater med et areal A og en avstand d, og du har koblet den til et batteri med spenning V.<br>a) Hva skjer med C når du dobler spennignen på batteriet V?<br>b) Hva blir ladningene på den positive og negative siden av kondensatioren hvis du dobler spenningen V?<br>c) Vi kobler batteriet fra kondensatoren. Hva er kapasitansen C til kondensatoren nå?	a) Ingeitng<br>b) +2Q og -2Q<br>c) Samme	
+"<img src=""capacitance-question-doubledouble-010.png""><br>Hvilken kondenstaor har lagret mest energi? Bruk fra formelheftet&nbsp;\(U = \frac{1}{2}cv^2 \quad c = \frac{Q}{V} = \frac{\epsilon S}{d}\)"	Vi ser at c for alternativ b er lik&nbsp;\(C_b = \frac{\epsilon A}{2d}\)&nbsp;dermed&nbsp;\(C_b &lt; C_a\). Siden U er direkte proposjonal med c får vi at a har mest energi	
+"<img src=""electricpotential-question-maxfield.png""><br>Hvor er absolutt-verdien av det elektriske feltet størst?"	C	
+Visualize the idea behind polarizaton density&nbsp;\(\bf P \)&nbsp;using an atom in an electric field and state its definition.	"<img src=""paste-b01b3a43dedc5c528cbc803187022585529e8fbe.jpg"" width=""368""><br>The polarization density the density of the bound charge multiplied by its displacement vector"	
+"Figuren viser et uendelig stort plan med en flateladningstetthet ρs. Planet ligger mellom to lineært dieletriske plater med dielektrisksitetskonstant ϵ som også er uendelige, men med en endelig tykkelse d.<br><img src=""polarization-question-slabs-010.png""><br>Hva blir det elektriske feltet E1 i et punkt inne i det dielektriske materialet?"	E=ρs/(2ϵ)ẑ .	
+"<img src=""paste-f8f9c849aaacd5b7c1e3b9595e247ea0e132e668.jpg"">"		
+What is the Z-test?	Simply for n &gt; 30 we can assume that the test statistic will be normally distributed	
+Find the variance of two estimators (\(\bar{X}-\bar{Y}\))&nbsp;	\(V(\bar{X}-\bar{Y}) = V(\bar{X}) - V(\bar{Y}) = \sqrt{\sigma_1^2/m + \sigma_2^2/n}\)	
+How do we find an interaction term?	Simply introduce a variable&nbsp;\(\beta_{ij}x_ix_j\)&nbsp;if you think they are interacting	
+What is the covariance matrix?&nbsp;	A matrix giving the covariance between all elements of a random vector	
+"<img src=""paste-eb2d8008bf1220716dd5481a838bc0aedb9990c3.jpg"">"	Integrerer fra -1 til 1 av&nbsp;\(xf(x;\theta)\). Vi vet da at&nbsp;\(\theta = 3 \mu\). Ytterligere vet vi at&nbsp;\(E(\bar{X}) = \mu\). Resten er løk algebra	
+"<img src=""paste-dfc727e09a7c0521ac21ba781002b62efd6d700f.jpg"">"	"<img src=""paste-1460752ecfc3dcf04e4d8f4c3163aa0df3c410c9.jpg""><br>"	
+"<img src=""paste-0366c3a31d8dc83341a477ff39fb734212c2187e.jpg"">"	"<img src=""paste-654fcede833974321c0314cd53a87ea3aa76c433.jpg""><br><img src=""paste-08107c07fdec7523d31c7c283f928da9b2a0964f.jpg"">"	
+What is a Cauchy distribution?	A distrubiton of the ratio of two indpendent normally distrubted random variables with mean zero	
+"Given the dataset [12.3, 13.1,11.3, 10.1, 14.0, 13.3, 10.5, 12.3, 10.9, 11.9], and the assumption&nbsp;\(\mu = 13\). Finish the table for the Wilcoxon signed rank test and calculate&nbsp;\(T(pos)\)&nbsp;<br><img src=""paste-d7fd6e8419250f10dceb175e3e6a90bd22f2e8a5.jpg"">"	"<img src=""paste-8941c515c25080d56a3e949cc25416107967c1a4.jpg""><br>T(pos) = 8, T(negative) = 47."	
+"<img src=""paste-367af5790033b7747cfda87a73c6ab88acccc298.jpg"">"	"a , b&nbsp;<br><img src=""paste-42b13654a5e2764660c22a4318bf803651e0eced.jpg"">7.2 task 5"	
+"<img src=""paste-c3d5e6f32ff4cfffa9f900ae253fec8118ecd397.jpg"">"	"<img src=""paste-d056b5c16ba4739c6451fcd1e83c5cec61b91d2b.jpg"">"	
+"<img src=""paste-d396b3e20721f7e47aaacf95d56c984eb57fd27b.jpg"">"	\(x_2 = 1, x_1 = 0\). Task 19 in 7.2	
+"<img src=""paste-05ffdc2469f498577fb5a17743f1d62c939b72cb.jpg"">"	a=b=c = Tru	
+"find the best approximation to z by vectors
+of the form&nbsp;\(c_1v_1, c_2v_2\)"	\(\bf proj_{v_1}z + proj_{v_2}z = \hat{z} = c_1v_1 + c_2v_2\)	
+"Use
+the Gram–Schmidt process to produce an orthogonal basis for W .<br><img src=""paste-ea82bf8ad826e0173197beba44d395c58be8f12e.jpg"">"	"Recall projection formula. We wish to find the normal to the plane of&nbsp;\(a_1\), which is&nbsp;\(a_2 - proj_{a_1}a_2\)<br><img src=""paste-ea82bf8ad826e0173197beba44d395c58be8f12e.jpg""><br>"	
+Denote \(\Vert y \Vert ^2 = SS(T), SS(R) = \Vert X \hat{\beta} \Vert^2, SS(E) \Vert y - X \hat{\beta} \Vert^2\)<br>Prove that :&nbsp;\(SS(T) = SS(R) + SS(E)\)	Draw projection imagine and see Pythagorean theorem	least::square
+"<img src=""paste-ede4cbd0cb34d056de738f62f90572d72411ce88.jpg"">"	"<img src=""paste-4719cd53f408604d9dbcae4bc2b02e9fab7017ea.jpg"">"	innerproduct
+"<img src=""paste-263b6b70bd5cfb4c7622c735588703b633ab49d4.jpg"">"	"<img src=""paste-ff91264474cc4c399267abadcaf2be57943df765.jpg"">"	bases
+"Find eigenvalues<br><img src=""paste-77dfe6fa6a2f24aeb72dd48df99b8aa448d8124f.jpg"">"	"<img src=""paste-ba1a8c96c81f72714c47200bb85da8b9d19888e1.jpg"">"	eigenvectors
+"Let W be equal to&nbsp;<br><img src=""paste-b3a9603846ebf9767c7f834967ac083134ece36d.jpg""><br>Show that W is a vector space or not"	No null vector ergo not a vector sapce<br>	
+"<img src=""paste-53636127c6a4397b6fce7b1b31153aaa59fc1b7e.jpg"">"	Follows from linearity of the integral. Kernel is all polynomials which are symmetric at 1/2&nbsp;	
+"<img src=""paste-e9593dbd0fda32daf58ce6ba2ccc74d6e4f98c0a.jpg"">"	Let&nbsp;\(\bf v_2,v_4\)be some linear combination of&nbsp;\(\bf v_1, v_3\)	spaces
+"<img src=""paste-385c0c612b1fdd73e8a50ff1cb2610dd07d60a04.jpg"">"	There are simply no&nbsp;\(c_i \in \mathbb{R} \forall i \in[0,5]  \)&nbsp;solving this equation.&nbsp;	spaces
+"<img src=""paste-658cb502197307df117002906c89fd8ffcf27376.jpg"">"	We see that f([-a,b])&nbsp; = [a,b] for all real numbers a,b. Furthermore, it is on surjective over the positivies. Moreover, x^3 has unique solutions for all real numbers.	spaces
+"Show that a strictly increasing function f : R → R is injective. Does it have to be
+surjective?"	We have y &gt; x for all x,y on the number line. Therefore, it is one-to-one. Yet, it need not be surjective since we can find functions which are strictly increasing yet transforms the input space to a smaller output space, such as arctan(R)&nbsp;	spaces
+Find the dimension of the subspace of all vectors in R3 whose first and third entries are equal	Two free variables, ergo dimension two	bases
+Find the dimension of the subspace H of R2 spanned by [2,-5], [-4,10], [-3,6].&nbsp;	We see v2 = -2v1, so two free variables ergo dim 2	bases
+"If a 3 x 8 matrix A has rank 3, find dim Nul A, dim Row A,
+and rank AT ."	NulA = 8-3 = 5. ColA = Rank = 3. RowA = ColAT = 3	bases
+A 4 x 7 matrix A has four pivot columns is&nbsp;\(Col A = \mathbb{R}^4?\)&nbsp;Is&nbsp;\(NulA = \mathbb{R}^3\)?	Yes and Yes	bases
+Explain the singular value decomposition using your ellipse example.&nbsp;	"<br><img src=""paste-1429c0914d05101d5bfbae1d0aa9b379d66ccb73.jpg"">"	bases
+Recall the p value calculator for the test statitsitc f in anova	"<img src=""f-table.jpg"">P value is the area of the right of the t test statistic critical value<br><br>"	stats
+Find relationship between&nbsp;\(R^2\)&nbsp;and T-test		stats
+"Find a function f : X → Y and a set A ⊆ X such that we have neither \(f(A^C) ⊆ f(A)^C\)&nbsp;c
+nor \(f(A)^C
+⊆ f(A^C).\)"		analysis
+What is the main idea of&nbsp;<b>linear stabiltiy analysis?&nbsp;</b>	Looking at the derivative at the fixed point	analysis
+Define a topological hemeomorphism&nbsp;\(f: X \to Y \)between two spaces.&nbsp;	f is a bijection<br>f is continous<br>and f inverse is continous	nonlinear::dynamics
+Try to show that the nullspace is trivial if a matrix is non-invertable?&nbsp;		
